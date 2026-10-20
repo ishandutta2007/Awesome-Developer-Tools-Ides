@@ -30,49 +30,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Integrated Development Environment (IDE) and developer tools software market is estimated at approximately **$4.5B to $10B+** (projected to reach over $25B–$30B by the early 2030s at an estimated ~10–14% CAGR, driven by AI coding assistants and cloud development environments). The sector is **moderately concentrated**—dominated at the core by ecosystem platform giants (Apple, Alphabet, Microsoft) and established leaders (JetBrains) who control platform-native toolchains and distribution channels, yet complemented by a **fragmented** tier of niche language IDEs, modular open-source editors, and cloud development startups.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Xcode**
-
-  **Apple's official IDE for iOS, macOS, watchOS, and tvOS development**. The **only complete toolchain** for building, signing, and deploying iOS apps to the App Store—bundles SwiftUI previews, simulators, Instruments profiling, and Apple Developer Services integration . **The baseline for iOS development**—"if your target is iOS, Xcode is the baseline; other tools are subtractive around it" . **Trade-offs**: massive install size, frequent upgrades, and requires macOS .
-
-
-
-- **Visual Studio**
-
-  **Microsoft's professional-grade IDE** with the MSVC compiler and best-in-class debugger . **Free Community edition** for students, hobbyists, and small teams. **The Windows C++ standard**—IntelliSense is genuinely intelligent, and the debugger surfaces state better than any alternative . **Trade-offs**: multi-gigabyte install and a complex workload selector that overwhelms first-timers .
-
-
-
-- **JetBrains AppCode (Deprecated)**
-
-  **Discontinued in 2022**—JetBrains ended sales and support for AppCode, and also discontinued CLion's Swift plugin . **The historical choice** for iOS/macOS development with JetBrains refactoring. **Do not adopt for new projects**—migrate to Xcode for Apple development or CLion for C++ .
-
-
-
-- **CLion**
-
-  **JetBrains' C++ IDE with deep CMake and refactoring support**. **Free for students** . **The best choice for structured C++ projects**—refactoring across a hundred files is safe, and integration with CMake is first-class . **Trade-offs**: commercial license for professional use, and heavier than lightweight editors.
-
-
-
-- **Android Studio**
-
-  **Google's official IDE for Android development**. Bundles the Android SDK, emulator, and Gradle build system. **The baseline for Android app development**—no viable complete alternative.
-
-
+| Product | Company Valuation / Revenue | Starting Pricing | Free Tier Limits | Description & Trade-offs |
+|---|---|---|---|---|
+| **Apple Xcode** | Market Cap: ~$4.02T (Revenue: ~$391B) | $99/year (Apple Developer Program starting tier required for App Store distribution) | Free to download and build locally / on tethered personal devices (free Apple ID); limited to personal provisioning profiles and 7-day personal certificate validity without paid membership | **Apple's official IDE for iOS, macOS, watchOS, and tvOS development**. The **only complete toolchain** for building, signing, and deploying iOS apps to the App Store—bundles SwiftUI previews, simulators, Instruments profiling, and Apple Developer Services integration. **The baseline for iOS development**. **Trade-offs**: massive install size, frequent upgrades, and strictly requires macOS. |
+| **Android Studio** | Market Cap: ~$3.78T (Alphabet) (Revenue: ~$350B) | $25 one-time registration fee (Google Play Console account starting tier to publish apps) | Free forever IDE download without functional restrictions for local compilation, testing, and debugging on emulator or physical devices; publishing requires a $25 one-time registration fee | **Google's official IDE for Android development**. Bundles the Android SDK, emulator, and Gradle build system. **The baseline for Android app development**—no viable complete alternative. |
+| **Microsoft Visual Studio** | Market Cap: ~$3.60T (Revenue: ~$245B) | $45/user/month (Visual Studio Professional Cloud Subscription) | Free perpetual Community edition limited to individual developers, open-source projects, classroom learning, and non-enterprise organizations (≤250 PCs and ≤$1M annual revenue) capped at 5 users | **Microsoft's professional-grade IDE** with the MSVC compiler and best-in-class debugger. **The Windows C++ standard**—IntelliSense is genuinely intelligent, and the debugger surfaces state better than any alternative. **Trade-offs**: multi-gigabyte install and a complex workload selector that overwhelms first-timers. |
+| **JetBrains CLion** | Valuation: $1B–$10B bracket (Private) (Revenue: ~$700M / 15B CZK) | $9.90/user/month or $99/user/year (Personal); $22.90/user/month or $229/user/year (Commercial) | Free forever for non-commercial use (learning, student/hobby projects, open-source creation); 30-day full-featured free trial with all features enabled for commercial evaluation | **JetBrains' C++ IDE with deep CMake and refactoring support**. **The best choice for structured C++ projects**—refactoring across a hundred files is safe, and integration with CMake is first-class. **Trade-offs**: commercial license required for professional/business use, and heavier than lightweight editors. |
+| **JetBrains AppCode (Deprecated)** | Valuation: $1B–$10B bracket (Private) (Revenue: ~$700M / 15B CZK) | Discontinued ($89/user/year personal / $199/user/year commercial when active) | 30-day evaluation trial (historical); product sunset on Dec 14, 2022 and no longer available for purchase or renewal | **Discontinued in 2022**—JetBrains ended sales and support for AppCode, and also discontinued CLion's Swift plugin. **The historical choice** for iOS/macOS development with JetBrains refactoring. **Do not adopt for new projects**—migrate to Xcode for Apple development or CLion for C++. |
 
 ## Open-Source GitHub Projects
 
