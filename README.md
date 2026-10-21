@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Tools-Ides?style=flat-square&color=gold)](https://github.com/ishandutta2007/Awesome-Developer-Tools-Ides/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Tools-Ides?style=flat-square&color=gold)](https://github.com/ishandutta2007/Awesome-Developer-Tools-Ides/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-Tools-Ides?style=flat-square&color=blue)](https://github.com/ishandutta2007/Awesome-Developer-Tools-Ides/network/members)
 [![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
 
@@ -61,84 +61,84 @@ A comprehensive breakdown of enterprise-grade developer suites, hosted toolchain
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the most prominent open-source IDEs, modern code editors, and cross-platform compilation toolchains. All repositories are **ranked and sorted in descending order by GitHub star count**. Each project includes a real-time stargazer badge linking directly to its GitHub stargazers page.
+Explore the most prominent open-source IDEs, modern code editors, and cross-platform compilation toolchains. All repositories are **ranked and sorted in descending order by GitHub Stars_Count**. Each project includes a real-time stargazer badge linking directly to its GitHub stargazers page.
 
-- ### [Visual Studio Code](https://github.com/microsoft/vscode) [![GitHub stars](https://img.shields.io/github/stars/microsoft/vscode?style=social&color=white)](https://github.com/microsoft/vscode/stargazers)
+- ### [Visual Studio Code](https://github.com/microsoft/vscode) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/vscode?style=social&color=white)](https://github.com/microsoft/vscode/stargazers)
   - **License**: MIT / Source-available binaries
   - **Overview**: The world's most widely adopted open-source code editor. Features rich Language Server Protocol (LSP) support, seamless debugging integration, built-in Git control, terminal emulation, and tens of thousands of community extensions.
   - **Key Strengths**: Unmatched ecosystem, versatile multi-language workflows, and fast configuration.
 
-- ### [Neovim](https://github.com/neovim/neovim) [![GitHub stars](https://img.shields.io/github/stars/neovim/neovim?style=social&color=white)](https://github.com/neovim/neovim/stargazers)
+- ### [Neovim](https://github.com/neovim/neovim) [![GitHub_Stars](https://img.shields.io/github/stars/neovim/neovim?style=social&color=white)](https://github.com/neovim/neovim/stargazers)
   - **License**: Apache-2.0 / Vim License
   - **Overview**: Vim-fork aggressively focused on extensibility, asynchronous plugin architecture, and first-class Lua scripting. Built-in Tree-sitter parsing and LSP client provide IDE-grade capabilities in an ultra-fast terminal environment.
   - **Key Strengths**: Blazing fast startup, keyboard-driven velocity, zero UI latency, and powerful terminal remote editing.
 
-- ### [Zed](https://github.com/zed-industries/zed) [![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)
+- ### [Zed](https://github.com/zed-industries/zed) [![GitHub_Stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)
   - **License**: GPL-3.0 / AGPL-3.0 / Apache-2.0
   - **Overview**: High-performance, multiplayer code editor engineered in Rust by the creators of Atom and Tree-sitter. Leverages GPU-accelerated rendering to deliver sub-millisecond keystroke responsiveness and built-in collaborative pairing.
   - **Key Strengths**: GPU-rendered text pipeline, minimal memory overhead, instant load times, and native AI/CRDT multiplayer pairing.
 
-- ### [Helix](https://github.com/helix-editor/helix) [![GitHub stars](https://img.shields.io/github/stars/helix-editor/helix?style=social&color=white)](https://github.com/helix-editor/helix/stargazers)
+- ### [Helix](https://github.com/helix-editor/helix) [![GitHub_Stars](https://img.shields.io/github/stars/helix-editor/helix?style=social&color=white)](https://github.com/helix-editor/helix/stargazers)
   - **License**: MPL-2.0
   - **Overview**: A post-modern modal terminal text editor written in Rust. Features Kakoune-inspired multiple selections, built-in Tree-sitter syntax highlighting, and out-of-the-box LSP support requiring zero complex plugin configuration.
   - **Key Strengths**: Pure Rust binary, complete out-of-the-box LSP functionality, and clean modal editing.
 
-- ### [Vim](https://github.com/vim/vim) [![GitHub stars](https://img.shields.io/github/stars/vim/vim?style=social&color=white)](https://github.com/vim/vim/stargazers)
+- ### [Vim](https://github.com/vim/vim) [![GitHub_Stars](https://img.shields.io/github/stars/vim/vim?style=social&color=white)](https://github.com/vim/vim/stargazers)
   - **License**: Vim License (Charityware)
   - **Overview**: The legendary ubiquitous text editor present on virtually every Unix/Linux server on Earth. Highly configurable modal editing paradigm that maximizes developer keyboard productivity.
   - **Key Strengths**: Universal server availability, tiny memory footprint, and decades of rock-solid stability.
 
-- ### [Lapce](https://github.com/lapce/lapce) [![GitHub stars](https://img.shields.io/github/stars/lapce/lapce/stargazers)](https://github.com/lapce/lapce/stargazers)
+- ### [Lapce](https://github.com/lapce/lapce) [![GitHub_Stars](https://img.shields.io/github/stars/lapce/lapce/stargazers)](https://github.com/lapce/lapce/stargazers)
   - **License**: Apache-2.0
   - **Overview**: Lightning-fast desktop code editor written in pure Rust with a GPU-accelerated UI rendered with Floem. Features native remote development capabilities (SSH, WSL, containers) and WASM-based plugin extensibility.
   - **Key Strengths**: Native speed, built-in modal editing mode, remote container execution, and modern Rust design.
 
-- ### [VSCodium](https://github.com/VSCodium/vscodium) [![GitHub stars](https://img.shields.io/github/stars/VSCodium/vscodium?style=social&color=white)](https://github.com/VSCodium/vscodium/stargazers)
+- ### [VSCodium](https://github.com/VSCodium/vscodium) [![GitHub_Stars](https://img.shields.io/github/stars/VSCodium/vscodium?style=social&color=white)](https://github.com/VSCodium/vscodium/stargazers)
   - **License**: MIT
   - **Overview**: Community-driven binary releases of Microsoft's `vscode` repository built with genuine open-source cleanliness—completely free of Microsoft telemetry, tracking, and proprietary binary licensing.
   - **Key Strengths**: Drop-in VS Code experience with strict privacy compliance and 100% free software licensing.
 
-- ### [Eclipse Theia](https://github.com/eclipse-theia/theia) [![GitHub stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers)
+- ### [Eclipse Theia](https://github.com/eclipse-theia/theia) [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers)
   - **License**: EPL-2.0
   - **Overview**: Extensible cloud and desktop IDE platform implemented in TypeScript. Designed from the ground up for organizations to build custom browser-based and desktop IDE products, supporting the VS Code extension protocol.
   - **Key Strengths**: Enterprise modularity, vendor-neutral governance, and cloud workspace embedding.
 
-- ### [xtool](https://github.com/xtool-org/xtool) [![GitHub stars](https://img.shields.io/github/stars/xtool-org/xtool?style=social&color=white)](https://github.com/xtool-org/xtool/stargazers)
+- ### [xtool](https://github.com/xtool-org/xtool) [![GitHub_Stars](https://img.shields.io/github/stars/xtool-org/xtool?style=social&color=white)](https://github.com/xtool-org/xtool/stargazers)
   - **License**: MIT
   - **Overview**: Cross-platform Xcode replacement. Build, test, sign, and deploy iOS applications with SwiftPM across Linux, Windows, and macOS without requiring proprietary Apple hardware.
   - **Key Strengths**: Breaks Apple hardware lock-in for CI/CD pipelines; programmatic `XKit` SwiftPM library for interacting with Apple Developer Services and iOS devices.
 
-- ### [GNU Emacs](https://github.com/emacs-mirror/emacs) [![GitHub stars](https://img.shields.io/github/stars/emacs-mirror/emacs?style=social&color=white)](https://github.com/emacs-mirror/emacs/stargazers)
+- ### [GNU Emacs](https://github.com/emacs-mirror/emacs) [![GitHub_Stars](https://img.shields.io/github/stars/emacs-mirror/emacs?style=social&color=white)](https://github.com/emacs-mirror/emacs/stargazers)
   - **License**: GPL-3.0
   - **Overview**: The extensible, customizable, self-documenting real-time display editor. Powered by Emacs Lisp (Elisp), Emacs acts as a complete computing environment spanning code editing, project planning (Org-mode), terminal emulation, and mail.
   - **Key Strengths**: Infinite programmability, iconic community (Doom/Spacemacs), and deep LSP support via `eglot`/`lsp-mode`.
 
-- ### [Geany](https://github.com/geany/geany) [![GitHub stars](https://img.shields.io/github/stars/geany/geany?style=social&color=white)](https://github.com/geany/geany/stargazers)
+- ### [Geany](https://github.com/geany/geany) [![GitHub_Stars](https://img.shields.io/github/stars/geany/geany?style=social&color=white)](https://github.com/geany/geany/stargazers)
   - **License**: GPL-2.0
   - **Overview**: Small and lightweight Integrated Development Environment using GTK+. Designed to provide a fast IDE with very few dependencies on separate packages.
   - **Key Strengths**: Near-instant cold launch, minimal RAM consumption (<50MB), and straightforward build system keys.
 
-- ### [Apache NetBeans](https://github.com/apache/netbeans) [![GitHub stars](https://img.shields.io/github/stars/apache/netbeans?style=social&color=white)](https://github.com/apache/netbeans/stargazers)
+- ### [Apache NetBeans](https://github.com/apache/netbeans) [![GitHub_Stars](https://img.shields.io/github/stars/apache/netbeans?style=social&color=white)](https://github.com/apache/netbeans/stargazers)
   - **License**: Apache-2.0
   - **Overview**: Full-featured open-source IDE with out-of-the-box support for Java, JavaScript, PHP, HTML5, and C/C++. Provides turnkey project templates, GUI visual designers, and enterprise refactoring tools.
   - **Key Strengths**: Ready out-of-the-box without manual plugin hunting; robust Apache governance.
 
-- ### [Qt Creator](https://github.com/qt-creator/qt-creator) [![GitHub stars](https://img.shields.io/github/stars/qt-creator/qt-creator?style=social&color=white)](https://github.com/qt-creator/qt-creator/stargazers)
+- ### [Qt Creator](https://github.com/qt-creator/qt-creator) [![GitHub_Stars](https://img.shields.io/github/stars/qt-creator/qt-creator?style=social&color=white)](https://github.com/qt-creator/qt-creator/stargazers)
   - **License**: GPL-3.0 / Commercial
   - **Overview**: Cross-platform C++, QML, and Python IDE tailored for Qt framework application development. Features visual design tools (Qt Quick Designer), CMake workflow automation, and sophisticated STL memory inspection.
   - **Key Strengths**: Exceptional memory/STL visualizer, native Qt cross-compilation, and integrated QML UI designer.
 
-- ### [CodeLite](https://github.com/eranif/codelite) [![GitHub stars](https://img.shields.io/github/stars/eranif/codelite?style=social&color=white)](https://github.com/eranif/codelite/stargazers)
+- ### [CodeLite](https://github.com/eranif/codelite) [![GitHub_Stars](https://img.shields.io/github/stars/eranif/codelite?style=social&color=white)](https://github.com/eranif/codelite/stargazers)
   - **License**: GPL-2.0
   - **Overview**: Open-source, lightweight cross-platform IDE specialized in C, C++, Rust, and Node.js. Optimized for developers needing rapid debugging cycles on resource-constrained hardware.
   - **Key Strengths**: Ultra-low memory footprint, built-in GDB/LLDB graphical debugger, and reliable CMake support.
 
-- ### [Eclipse CDT](https://github.com/eclipse-cdt/cdt) [![GitHub stars](https://img.shields.io/github/stars/eclipse-cdt/cdt?style=social&color=white)](https://github.com/eclipse-cdt/cdt/stargazers)
+- ### [Eclipse CDT](https://github.com/eclipse-cdt/cdt) [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-cdt/cdt?style=social&color=white)](https://github.com/eclipse-cdt/cdt/stargazers)
   - **License**: EPL-2.0
   - **Overview**: The Eclipse Foundation's flagship C/C++ Development Tooling project. Provides industrial-strength parsing, indexing, static analysis, and hardware debugging infrastructure widely deployed across embedded and aerospace systems.
   - **Key Strengths**: Heavy-duty embedded systems toolchains, hardware GDB server integration, and mature enterprise backing.
 
-- ### [Code::Blocks](https://github.com/arnholm/codeblocks_sfmirror) [![GitHub stars](https://img.shields.io/github/stars/arnholm/codeblocks_sfmirror?style=social&color=white)](https://github.com/arnholm/codeblocks_sfmirror/stargazers)
+- ### [Code::Blocks](https://github.com/arnholm/codeblocks_sfmirror) [![GitHub_Stars](https://img.shields.io/github/stars/arnholm/codeblocks_sfmirror?style=social&color=white)](https://github.com/arnholm/codeblocks_sfmirror/stargazers)
   - **License**: GPL-3.0
   - **Overview**: Free C/C++ and Fortran IDE built to meet the most demanding needs of its users. Highly extensible through its modular plugin architecture and beginner-friendly "one project, one build" philosophy.
   - **Key Strengths**: Simple installation for students/learners, MinGW bundle availability, and multi-compiler support.
